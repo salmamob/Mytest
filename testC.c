@@ -5,7 +5,8 @@
 int main()
 {
    printf("Hello Your name\n");
-   printf("Welcome to EEE1008\n");
+   printf("Welcome to sup\n");
+   printf("Welcome to sup\n");
 
    return 0;
 }
