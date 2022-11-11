@@ -5,7 +5,7 @@
 int main()
 {
    printf("Hello Your name\n");
-   printf("Welcome to sup\n");
+   printf("Welcome to crazy\n");
    printf("Welcome to sup\n");
 
    return 0;
